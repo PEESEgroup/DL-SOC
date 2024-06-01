@@ -7,7 +7,7 @@ Deep learning code for digital soil organic carbon (SOC) mapping and covariate i
 - `dl_models/` contains scripts to build deep learning models for digital soil mapping as well as the weights of the trained models
 - `permutation_analysis/` contains scripts to perform local and continental scales feature permutation analysis
 - `shap/` contains a script to compute the contribution of covariates to SOC using SHapley Additive exPlanation (SHAP)
-- To use the scripts in this repository, please create a `data/` folder in the `main/` directory and download the processed datasets from [processed data](10.5281/zenodo.11409768) and paste all the subfolders into `data/`
+- To use the scripts in this repository, please create a `data/` folder in the `main/` directory and download the processed datasets from [DL-SOC-data](10.5281/zenodo.11409768) and paste all the subfolders into `data/`
 ## Package Requirements
 - python 3.8.2
 - pandas 1.4.1
