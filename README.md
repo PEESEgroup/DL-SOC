@@ -13,5 +13,4 @@ Deep learning code for digital soil organic carbon (SOC) mapping and covariate i
 - numpy 1.20.1
 - tensorflow 2.6.0
 - evidential-deep-learning 0.4.0
-## Citation
-TBD
+- opencv-python 4.7.0.72
