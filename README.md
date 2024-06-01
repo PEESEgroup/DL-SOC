@@ -1,5 +1,6 @@
 # DL-SOC
 Deep learning code for digital soil organic carbon (SOC) mapping and covariate importance analysis
+
 ![Abstract Image](abstract_image/abstract_image_landscape.PNG)
 ## Overview
 - `convert_multiscale_features/` constains a script to generate multiscale covariate layers using Gaussian Pyramids
